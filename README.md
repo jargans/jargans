@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ2cXp1aGw3ZzVvNjVodGM1anF1b2hxemxrNHZtOGxvbXl3MnV4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s6o2Pq9zp8ySF9GbCF/giphy.gif")
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ2cXp1aGw3ZzVvNjVodGM1anF1b2hxemxrNHZtOGxvbXl3MnV4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s6o2Pq9zp8ySF9GbCF/giphy.gif)
 </div>
 <h1 align="center">Hi 👋, I'm Rishabh Raj</h1>
 <h3 align="center">Currently working in automation with a strong aspiration to become a DevOps Engineer. I am passionate about streamlining processes, enhancing productivity, and implementing robust CI/CD pipelines.</h3>
