@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **more about DevOps practices, tools like Docker, Kubernetes, Jenkins, and cloud platforms like AWS and Azure**
 
-- 👯 I’m looking to collaborate on **on projects that involve DevOps, CI/CD, and cloud infrastructure.**
+- 👯 I’m looking to collaborate  **on projects that involve DevOps, CI/CD, and cloud infrastructure.**
 
 - 📝 I regularly write articles on [https://hashnode.com/@rishabhraj0105](https://hashnode.com/@rishabhraj0105)
 
