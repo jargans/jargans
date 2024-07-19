@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/XZsKKN8/devopsgithub.png" width="800" />
 </p>
-<h1 align="center">Hi 👋, I'm Rishabh Raj</h1>
+<h1 align="center">Hi 👋, <a href="https://www.linkedin.com/in/rishab-raj-/" target="_blank">Rishabh Raj</h1>
 <h3 align="center">Currently working in automation with a strong aspiration to become a DevOps Engineer. I am passionate about streamlining processes, enhancing productivity, and implementing robust CI/CD pipelines.</h3>
 
 
