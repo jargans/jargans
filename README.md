@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/XZsKKN8/devopsgithub.png" width="800" />
 </p>
 <h1 align="center">Hi 👋, <a href="https://www.linkedin.com/in/rishab-raj-/" target="_blank">Rishabh Raj</h1>
-<h3 align="center">Currently working in automation with a strong aspiration to become a DevOps Engineer. I am passionate about streamlining processes, enhancing productivity, and implementing robust CI/CD pipelines.</h3>
+<h3 align="center">Currently working in automation in DevOps and AIOps space. I am passionate about streamlining processes, enhancing productivity, and implementing robust CI/CD pipelines.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jargans&label=Profile%20views&color=0e75b6&style=flat" alt="jargans" /> </p>
