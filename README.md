@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **automation projects, focusing on optimizing workflows and reducing manual intervention.**
 
-- 🌱 I’m currently working **on DevOps practices, tools like Docker, Kubernetes, Jenkins, and cloud platforms like AWS and Azure**
+- 🌱 I’m currently working as **DevOps Engineer, tools like Docker, Kubernetes, Jenkins, and cloud platforms like AWS and Azure**
 
 - 👯 I’m looking to collaborate  **on projects that involve DevOps, CI/CD, and cloud infrastructure.**
 
